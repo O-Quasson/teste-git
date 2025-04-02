@@ -1,1 +1,1 @@
-echo 'texto' > nome do arquivo
+echo 'texto' > nome do arquivo.extensão
