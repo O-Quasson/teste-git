@@ -1,1 +1,1 @@
-funcionou
+echo 'texto' > nome do arquivo
