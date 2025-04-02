@@ -1,0 +1,7 @@
+1- git checkout -b nome-do-branch 
+2- cria arquivo 
+3- git status 
+4- git add nomedoarquivo.ext 
+5- git commit -m 'descrição do commit' 
+6- git push origin nomedobranch 
+7-ser feliz
